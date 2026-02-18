@@ -1,13 +1,13 @@
 # Automation Testing Projects
 
-#  Overview
+## Overview
 
 This repository contains **Selenium-based automation testing projects** developed using Java.
 The framework is designed to validate web application functionality, ensure regression stability, and demonstrate industry‑standard automation practices suitable for course completion and interview portfolios.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 * **Language:** Java
 * **Automation Tool:** Selenium WebDriver
@@ -18,9 +18,8 @@ The framework is designed to validate web application functionality, ensure regr
 
 ---
 
-# Project Structure
+## Project Structure
 
-```
 ChromaProject
  └── src
      └── test
@@ -29,32 +28,30 @@ ChromaProject
             ├── pages           → Page Object Model (POM) classes
             └── tests           → TestNG test cases
 
----
 
-# How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 
-   ```bash
+   bash
    git clone <your-repo-link>
-   ```
+   
 2. Open the project in **Eclipse / IntelliJ IDEA**.
 3. Update dependencies using Maven:
 
-   ```bash
+   bash
    mvn clean install
-   ```
+   
 4. Run tests using:
 
-   ```bash
+   bash
    mvn test
-   ```
 
    or execute the **TestNG XML file** directly from the IDE.
 
 ---
 
-# Features Implemented
+## Features Implemented
 
 * Selenium framework structure
 * Page Object Model for maintainable test design
@@ -68,7 +65,7 @@ ChromaProject
 
 ---
 
-# Sample Test Coverage
+## Sample Test Coverage
 
 Typical automated scenarios may include:
 
@@ -79,32 +76,28 @@ Typical automated scenarios may include:
 
 ---
 
-# Project Report
+## Project Report
 
 The detailed **project documentation (PDF/DOCX)** can be placed in:
-
-```
 /docs
-```
-
 or attached in the repository **Reports** section.
 
 ---
 
-# Future Enhancements
+## Future Enhancements
 
 * Advanced reporting dashboards
 * Parallel execution support
 
 ---
 
-# Author
+## Author
 
 **Sreerag Krishnan**
 Automation Testing Enthusiast | Java | Selenium
 
 ---
 
-# License
+## License
 
 This project is for **educational and demonstration purposes**.
