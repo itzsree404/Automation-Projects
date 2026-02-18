@@ -7,7 +7,7 @@ The framework is designed to validate web application functionality, ensure regr
 
 ---
 
-## 🧰 Tech Stack
+# Tech Stack
 
 * **Language:** Java
 * **Automation Tool:** Selenium WebDriver
@@ -18,7 +18,7 @@ The framework is designed to validate web application functionality, ensure regr
 
 ---
 
-## 📁 Project Structure
+# Project Structure
 
 ```
 ChromaProject
@@ -31,7 +31,7 @@ ChromaProject
 
 ---
 
-## ▶️ How to Run the Project
+# How to Run the Project
 
 1. Clone the repository:
 
@@ -54,7 +54,7 @@ ChromaProject
 
 ---
 
-## ✅ Features Implemented
+# Features Implemented
 
 * Selenium framework structure
 * Page Object Model for maintainable test design
@@ -68,7 +68,7 @@ ChromaProject
 
 ---
 
-## 📊 Sample Test Coverage
+# Sample Test Coverage
 
 Typical automated scenarios may include:
 
@@ -79,7 +79,7 @@ Typical automated scenarios may include:
 
 ---
 
-## 📄 Project Report
+# Project Report
 
 The detailed **project documentation (PDF/DOCX)** can be placed in:
 
@@ -91,20 +91,20 @@ or attached in the repository **Reports** section.
 
 ---
 
-## 🚀 Future Enhancements
+# Future Enhancements
 
 * Advanced reporting dashboards
 * Parallel execution support
 
 ---
 
-## 👤 Author
+# Author
 
 **Sreerag Krishnan**
 Automation Testing Enthusiast | Java | Selenium
 
 ---
 
-## 📜 License
+# License
 
 This project is for **educational and demonstration purposes**.
