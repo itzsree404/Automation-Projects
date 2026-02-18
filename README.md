@@ -5,8 +5,6 @@
 This repository contains **Selenium-based automation testing projects** developed using Java.
 The framework is designed to validate web application functionality, ensure regression stability, and demonstrate industry‑standard automation practices suitable for course completion and interview portfolios.
 
----
-
 ## Tech Stack
 
 * **Language:** Java
@@ -15,8 +13,6 @@ The framework is designed to validate web application functionality, ensure regr
 * **Build Tool:** Maven
 * **Design Pattern:** Page Object Model (POM)
 * **Reporting:** TestNG Reports / Extent Reports
-
----
 
 ## Project Structure
 ```
@@ -49,8 +45,6 @@ ChromaProject
 
    or execute the **TestNG XML file** directly from the IDE.
 
----
-
 ## Features Implemented
 
 * Selenium framework structure
@@ -63,8 +57,6 @@ ChromaProject
   * QA automation portfolio demonstration
   * Interview project showcase
 
----
-
 ## Sample Test Coverage
 
 Typical automated scenarios may include:
@@ -74,29 +66,21 @@ Typical automated scenarios may include:
 * Add to cart / checkout flow
 * Form validation and error handling
 
----
-
 ## Project Report
 
 The detailed **project documentation (PDF/DOCX)** can be placed in:
 /docs
 or attached in the repository **Reports** section.
 
----
-
 ## Future Enhancements
 
 * Advanced reporting dashboards
 * Parallel execution support
 
----
-
 ## Author
 
 **Sreerag Krishnan**
 Automation Testing Enthusiast | Java | Selenium
-
----
 
 ## License
 
