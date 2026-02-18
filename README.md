@@ -19,7 +19,7 @@ The framework is designed to validate web application functionality, ensure regr
 ---
 
 ## Project Structure
-
+---
 ChromaProject
  └── src
      └── test
@@ -27,7 +27,7 @@ ChromaProject
             ├── core            → Base classes, utilities, listeners, reports, retry, screenshots
             ├── pages           → Page Object Model (POM) classes
             └── tests           → TestNG test cases
-
+---
 
 ## How to Run the Project
 
