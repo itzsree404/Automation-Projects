@@ -1,6 +1,6 @@
 # Automation Testing Projects
 
-## 📌 Overview
+#  Overview
 
 This repository contains **Selenium-based automation testing projects** developed using Java.
 The framework is designed to validate web application functionality, ensure regression stability, and demonstrate industry‑standard automation practices suitable for course completion and interview portfolios.
